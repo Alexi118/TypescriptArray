@@ -1,0 +1,9 @@
+    {
+        "compilerOptions": {
+            "module": "CommonJS",
+            "target": "es6", //Java script ver will be translated to
+            "rootDir": "./typescript",
+            "outDir": "./dist",
+            "removeComments": true // remove comment in js files
+        }
+    }    
